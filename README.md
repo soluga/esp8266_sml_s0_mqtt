@@ -13,4 +13,4 @@ Pull requests greatly appreciated. :)<br>
 I used<br>
 -An ESP8266-12E (Wemos D1 Mini).<br>
 -PCF8575 (GPIO expander with 16 ports), connected to D1 (SCL), D2 (SDA) and D5 (Interrupt)<br>
--Infrared-diode connected to D4<br>
+-Infrared-diode OSRAM SFH309FA (880-1120nm/35V) connected to D4<br>
